@@ -30,10 +30,17 @@ Johan 🖋️
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
 
+## My Coding Routine
 
+As a Developer, my daily life operates in a cycle that blends productivity and continuous learning seamlessly. Here's what it looks like:
 
+1. **Coding:** Programming isn't just what I do—it's a passion that drives me. Be it tackling a complex problem or exploring a new technology, coding always presents an exciting challenge that brings immense satisfaction.
 
+2. **Eating:** Proper nutrition is vital for a sharp mind. Regular, balanced meals keep my energy levels steady, fueling efficient coding sessions and productive days.
 
+3. **Sleeping:** Quality rest is the unsung hero of productivity. A good night's sleep helps me recharge, renew, and get ready for another fruitful day of coding.
+
+In essence, my routine is code, eat, sleep, and repeat. It's more than just a schedule—it's a balanced lifestyle that keeps my passion for programming alive and drives me to strive for excellence.
 
 ```mermaid
 graph LR
