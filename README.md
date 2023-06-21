@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=repo-name&theme=dracula)](https://github.com/syu99/repo-name)
+
 
 ###  Hello👋,
 
