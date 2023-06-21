@@ -20,9 +20,10 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
-## Connect with me :
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbray/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johan.dev.pro@gmail.com)
 
 ## Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
