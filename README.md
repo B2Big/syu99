@@ -15,6 +15,9 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbray/)
+
+
 <!--
 **syu99/syu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
