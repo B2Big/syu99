@@ -1,8 +1,8 @@
-### :bar_chart: Stats :
+## :bar_chart: Stats :
 
 ![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=cobalt)
 
-### 👋 Hello :
+## 👋 Hello :
 
 I'm a **passionate Full Stack developer** 💻 specialising in crafting innovative web and mobile solutions. With a focus on React.js, React Native, and Next.js, I'm dedicated to building applications that deliver an exceptional user experience. 🚀
 
@@ -19,7 +19,7 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
-### Connect with me :
+## Connect with me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbray/)
 
