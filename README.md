@@ -1,6 +1,7 @@
 ## :bar_chart: Stats:
 
-![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=cobalt)
+![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=dracula)
+
 
 ## 👋 Hello :
 
