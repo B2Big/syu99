@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**syu99/syu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 👋 Hello,
 
 I'm a **passionate Full Stack developer** 💻 specialising in crafting innovative web and mobile solutions. With a focus on React.js, React Native, and Next.js, I'm dedicated to building applications that deliver an exceptional user experience. 🚀
@@ -21,7 +17,8 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
-
+<!--
+**syu99/syu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
