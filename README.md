@@ -36,6 +36,7 @@ graph TD
     EAT--> SLEEP
     SLEEP--> CODE
     REPEAT--> EAT
+```
 
 
 
