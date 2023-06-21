@@ -37,7 +37,7 @@ Johan 🖋️
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
 
-## My Coding Routine
+## :computer: My Coding Routine
 
 As a Developer, my daily life operates in a cycle that blends productivity and continuous learning seamlessly. Here's what it looks like:
 
@@ -62,7 +62,7 @@ graph LR
     SLEEP-->|Get productive|CODE
 
 ```
-## Specific repository:
+## :file_folder: Specific Repository :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=Frontend-Hackatweet&theme=dracula)](https://github.com/syu99/Frontend-Hackatweet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=Backend-Hackatweet&theme=dracula)](https://github.com/syu99/Backend-Hackatweet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=locaPic&theme=dracula)](https://github.com/syu99/locaPic)
