@@ -55,7 +55,7 @@ graph LR
     SLEEP-->|Get productive|CODE
 
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=radical)
 
 
 
