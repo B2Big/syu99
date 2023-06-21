@@ -31,10 +31,16 @@ Johan 🖋️
 </p>
 
 ```mermaid
-graph TD
-    CODE-->EAT
-    EAT--> SLEEP
-    SLEEP--> CODE
+graph LR
+    CODE{Code}
+    SLEEP{Sleep}
+    EAT{Eat}
+    style CODE fill:#f9d900,stroke:#333,stroke-width:2px
+    style SLEEP fill:#60f,stroke:#333,stroke-width:2px
+    style EAT fill:#0f6,stroke:#333,stroke-width:2px
+    CODE-->|Get hungry|EAT
+    EAT-->|Get sleepy|SLEEP
+    SLEEP-->|Get productive|CODE
 
 ```
 
