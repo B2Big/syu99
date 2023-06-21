@@ -20,14 +20,16 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
-## Connect with me :
-
+## :handshake: Connect with me
+Let's stay connected and get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbray/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johan.dev.pro@gmail.com)
+Feel free to reach out to me through these platforms. I look forward to connecting with you!
 
-## Languages & Tools:
+## :wrench: Languages & Tools
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+Here are some of the languages and tools I work with:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
@@ -36,7 +38,7 @@ Johan 🖋️
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
-
+I am constantly expanding my knowledge and exploring new technologies to enhance my skills. Feel free to ask me about any specific language or tool mentioned above.
 ## :computer: My Coding Routine
 
 As a Developer, my daily life operates in a cycle that blends productivity and continuous learning seamlessly. Here's what it looks like:
