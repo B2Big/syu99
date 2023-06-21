@@ -30,6 +30,13 @@ Johan 🖋️
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
 
+```mermaid
+graph TD
+    EAT[Eat] --> SLEEP
+    SLEEP[Sleep] --> CODE
+    CODE[Code] --> REPEAT
+    REPEAT[Repeat] --> EAT
+
 
 
 
