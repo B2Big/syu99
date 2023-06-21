@@ -20,7 +20,7 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 **Kind regards,**
 Johan 🖋️
 
-## :handshake: Connect with me
+## :handshake: Connect with me :
 
 <p align="left">
 Let's stay connected and get in touch:
@@ -33,7 +33,7 @@ Let's stay connected and get in touch:
 Feel free to reach out to me through these platforms. I look forward to connecting with you!
 </p>
 
-## :wrench: Languages & Tools
+## :wrench: Languages & Tools :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
@@ -49,7 +49,7 @@ Here are some of the languages and tools I work with:
 </p>
 I am constantly expanding my knowledge and exploring new technologies to enhance my skills. Feel free to ask me about any specific language or tool mentioned above.
 
-## :computer: My Coding Routine
+## :computer: My Coding Routine :
 
 As a Developer, my daily life operates in a cycle that blends productivity and continuous learning seamlessly. Here's what it looks like:
 
