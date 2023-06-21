@@ -21,10 +21,17 @@ If you have any ideas or projects in mind, I'd be delighted to discuss them with
 Johan 🖋️
 
 ## :handshake: Connect with me
+
+<p align="left">
 Let's stay connected and get in touch:
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanbray/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johan.dev.pro@gmail.com)
+
+<p align="left">
 Feel free to reach out to me through these platforms. I look forward to connecting with you!
+</p>
 
 ## :wrench: Languages & Tools
 
