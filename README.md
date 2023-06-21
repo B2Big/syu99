@@ -1,6 +1,6 @@
 ![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=repo-name&theme=dracula)](https://github.com/syu99/repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=Frontend-Hackatweet&theme=cobalt)](https://github.com/syu99/repo-name)
 
 
 ###  Hello👋,
