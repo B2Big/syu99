@@ -29,7 +29,9 @@ Feel free to reach out to me through these platforms. I look forward to connecti
 ## :wrench: Languages & Tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
 Here are some of the languages and tools I work with:
+  </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
