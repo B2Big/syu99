@@ -32,10 +32,10 @@ Johan 🖋️
 
 ```mermaid
 graph TD
-    EAT[Eat] --> SLEEP
-    SLEEP[Sleep] --> CODE
-    CODE[Code] --> REPEAT
-    REPEAT[Repeat] --> EAT
+    CODE--> REPEAT
+    EAT--> SLEEP
+    SLEEP--> CODE
+    REPEAT--> EAT
 
 
 
