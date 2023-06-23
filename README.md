@@ -2,28 +2,32 @@
 
 ![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=dracula)
 
-
-# 👋 Hi there! 
+**👋 Hi there!** 
 
 I'm a creative Full Stack developer with three years of experience and an eye for aesthetics.
 
-## 💡 Passionate 
+**💡 Passionate** 
+
 About designing web and mobile applications, I love turning ideas into digital realities.
 
-## 🎨 My Inclination 
+**🎨 My Inclination** 
+
 Towards design reflects in my work, where I pride myself on creating both beautiful and functional user interfaces.
 
-## 🖥️ Proficient 
+**🖥️ Proficient** 
+
 In developing Single Page Applications with React.js and I master JavaScript and databases.
 
-## 🚀 Entrepreneur 
+**🚀 Entrepreneur** 
+
 Being an entrepreneur at heart, I am always brimming with ideas and love bringing them to life.
 
-## 🧰 Development Tools 
+**🧰 Development Tools** 
+
 With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
+If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch 📞
 
-If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch
 
 ## :handshake: Connect with me :
 
