@@ -55,13 +55,14 @@ Here are some of the languages and tools I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
-<p align="center">
+<p align="left">
   I am constantly expanding my knowledge and exploring new technologies to enhance my skills. Feel free to ask me about any specific language or tool mentioned above.
 </p>
 
 ## :computer: My Coding Routine :
-
+<p align="center">
 As a Developer, my daily life operates in a cycle that blends productivity and continuous learning seamlessly. Here's what it looks like:
+</p>
 
 1. **Coding:** Programming isn't just what I do—it's a passion that drives me. Be it tackling a complex problem or exploring a new technology, coding always presents an exciting challenge that brings immense satisfaction.
 
