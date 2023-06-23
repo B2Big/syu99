@@ -3,22 +3,27 @@
 ![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=dracula)
 
 
-## 👋 Hello :
+# 👋 Hi there! 
 
-I'm a **passionate Full Stack developer** 💻 specialising in crafting innovative web and mobile solutions. With a focus on React.js, React Native, and Next.js, I'm dedicated to building applications that deliver an exceptional user experience. 🚀
+I'm a creative Full Stack developer with three years of experience and an eye for aesthetics.
 
-As a _project manager_ 🎯, I've honed key skills in leadership and management, demonstrating a strong proficiency in using Git for version control and effective team collaboration on projects. 🤝
+## 💡 Passionate 
+About designing web and mobile applications, I love turning ideas into digital realities.
 
-My interest in **entrepreneurship** 🚀 consistently drives me to seek growth opportunities and innovation. Equipped to understand commercial needs, I propose solutions and ensure their technical implementation. 💼
+## 🎨 My Inclination 
+Towards design reflects in my work, where I pride myself on creating both beautiful and functional user interfaces.
 
-_Creativity_ 🎨 and art are essential elements of my work. They inspire me to envisage unique solutions and add a unique touch to every project I undertake. 🌈
+## 🖥️ Proficient 
+In developing Single Page Applications with React.js and I master JavaScript and databases.
 
-Always on the lookout for new opportunities and challenges, I am eager to continue learning and evolving. 🔝 Don't hesitate to contact me to discuss how I might bring value to your team.
+## 🚀 Entrepreneur 
+Being an entrepreneur at heart, I am always brimming with ideas and love bringing them to life.
 
-If you have any ideas or projects in mind, I'd be delighted to discuss them with you and try to meet your needs.
+## 🧰 Development Tools 
+With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
-**Kind regards,**
-Johan 🖋️
+
+If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch
 
 ## :handshake: Connect with me :
 
