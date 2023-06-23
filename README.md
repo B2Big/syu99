@@ -31,7 +31,7 @@ With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, 
 
 ## :handshake: Connect with me :
 
-<p align="left">
+<p align="center">
 Let's stay connected and get in touch:
 </p>
 
