@@ -26,12 +26,13 @@ Being an entrepreneur at heart, I am always brimming with ideas and love bringin
 
 With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
-*If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch* 
+<p align="center">*If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch*</p>
+
 
 
 ## :handshake: Connect with me :
 
-<p align="center">
+<p align="left">
 Let's stay connected and get in touch:
 </p>
 
@@ -68,7 +69,7 @@ As a Developer, my daily life operates in a cycle that blends productivity and c
 
 3. **Sleeping:** Quality rest is the unsung hero of productivity. A good night's sleep helps me recharge, renew, and get ready for another fruitful day of coding.
 
-In essence, my routine is code, eat, sleep, and repeat. It's more than just a schedule—it's a balanced lifestyle that keeps my passion for programming alive and drives me to strive for excellence.
+<p align="center">In essence, my routine is code, eat, sleep, and repeat. It's more than just a schedule—it's a balanced lifestyle that keeps my passion for programming alive and drives me to strive for excellence.</p>
 
 ```mermaid
 graph LR
