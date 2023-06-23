@@ -26,9 +26,7 @@ Being an entrepreneur at heart, I am always brimming with ideas and love bringin
 
 With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
-<p align="center">*If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch*</p>
-
-
+<p align="center"><em>If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch</em></p>
 
 ## :handshake: Connect with me :
 
@@ -57,7 +55,9 @@ Here are some of the languages and tools I work with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express.js" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
 </p>
-I am constantly expanding my knowledge and exploring new technologies to enhance my skills. Feel free to ask me about any specific language or tool mentioned above.
+<p align="center">
+  I am constantly expanding my knowledge and exploring new technologies to enhance my skills. Feel free to ask me about any specific language or tool mentioned above.
+</p>
 
 ## :computer: My Coding Routine :
 
@@ -69,7 +69,9 @@ As a Developer, my daily life operates in a cycle that blends productivity and c
 
 3. **Sleeping:** Quality rest is the unsung hero of productivity. A good night's sleep helps me recharge, renew, and get ready for another fruitful day of coding.
 
-<p align="center">In essence, my routine is code, eat, sleep, and repeat. It's more than just a schedule—it's a balanced lifestyle that keeps my passion for programming alive and drives me to strive for excellence.</p>
+<p align="center">
+  In essence, my routine is code, eat, sleep, and repeat. It's more than just a schedule—it's a balanced lifestyle that keeps my passion for programming alive and drives me to strive for excellence.
+</p>
 
 ```mermaid
 graph LR
