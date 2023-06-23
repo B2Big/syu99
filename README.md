@@ -26,7 +26,7 @@ Being an entrepreneur at heart, I am always brimming with ideas and love bringin
 
 With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
-If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch 📞
+*If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch* 
 
 
 ## :handshake: Connect with me :
