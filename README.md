@@ -18,9 +18,9 @@ Towards design reflects in my work, where I pride myself on creating both beauti
 
 In developing Single Page Applications with React.js and I master JavaScript and databases.
 
-**🚀 Entrepreneur** 
+**Project Management 🚀**
 
-Being an entrepreneur at heart, I am always brimming with ideas and love bringing them to life.
+Passionate about steering projects, I excel in transforming ideas into concrete achievements. With my mastery of both agile and traditional methodologies, I ensure stakeholder alignment, resource management, and achievement of objectives within the set timeframe and budget.
 
 **🧰 Development Tools** 
 
