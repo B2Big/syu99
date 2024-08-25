@@ -88,23 +88,9 @@ graph LR
 
 ```
 ## :file_folder: Specific Repository :
-<p align="center">
-  <a href="https://github.com/syu99/codeWords">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=codeWords&theme=dracula" alt="codeWords" />
-  </a>
-  <a href="https://github.com/syu99/Frontend-Hackatweet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=Frontend-Hackatweet&theme=dracula" alt="Frontend-Hackatweet" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/syu99/locaPic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=locaPic&theme=dracula" alt="locaPic" />
-  </a>
-  <a href="https://github.com/syu99/faceUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=faceUp&theme=dracula" alt="faceUp" />
-  </a>
-</p>
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=codeWords&theme=dracula)](https://github.com/syu99/codeWords)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=Frontend-Hackatweet&theme=dracula)](https://github.com/syu99/Frontend-Hackatweet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=locaPic&theme=dracula)](https://github.com/syu99/locaPic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syu99&repo=faceUp&theme=dracula)](https://github.com/syu99/faceUp)
 
 
