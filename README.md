@@ -21,7 +21,7 @@ Dashboarding: Building scalable, high-impact visuals that drive decisions.
 Full Stack Roots: React.js, Node.js, Express.js, MongoDB, Next.js, React Native.
 Project Leadership: Agile master, delivering on time, every time.
 
-** Tools I Wield 🚀**
+**🚀 Tools I Wield**
 
 GitHub, SQL, Tableau, Power BI, Looker, Snowflake, BigQuery, Redshift, Figma, Git—ready to tackle any challenge GAFAM throws my way.
 
