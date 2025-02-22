@@ -4,29 +4,32 @@
 
 **👋 Hi there!** 
 
-I'm a creative Full Stack developer with three years of experience and an eye for aesthetics.
+I’m a BI Analytics Engineer with 6+ years of IT dominance, crushing it with advanced SQL, Big Data modeling, and scalable dashboards. Formerly a Full Stack maestro, I now weaponize data to slash costs and skyrocket KPIs for the world’s top tech players.
 
 **💡 Passionate** 
 
-About designing web and mobile applications, I love turning ideas into digital realities.
+I turn raw data into strategic gold using tools like Tableau, Power BI, and Looker, backed by battle-tested data warehousing on Snowflake, BigQuery, and Redshift. My code doesn’t just work—it wins.
 
-**🎨 My Inclination** 
+**🎨 Design Meets Data** 
 
-Towards design reflects in my work, where I pride myself on creating both beautiful and functional user interfaces.
+With an eye for aesthetics from my web/mobile dev days, I craft dashboards that don’t just inform—they captivate. Beauty and function? I deliver both.
 
-**🖥️ Proficient** 
+**🖥️ Tech Arsenal** 
 
-In developing Single Page Applications with React.js and I master JavaScript and databases.
+Advanced SQL & Big Data: Taming massive datasets like a pro.
+Dashboarding: Building scalable, high-impact visuals that drive decisions.
+Full Stack Roots: React.js, Node.js, Express.js, MongoDB, Next.js, React Native.
+Project Leadership: Agile master, delivering on time, every time.
 
-**Project Management 🚀**
+** Tools I Wield🚀**
 
-Passionate about steering projects, I excel in transforming ideas into concrete achievements. With my mastery of both agile and traditional methodologies, I ensure stakeholder alignment, resource management, and achievement of objectives within the set timeframe and budget.
+GitHub, SQL, Tableau, Power BI, Looker, Snowflake, BigQuery, Redshift, Figma, Git—ready to tackle any challenge GAFAM throws my way.
 
 **🧰 Development Tools** 
 
 With a suite of tools like GitHub, Express.js, Node.js, React.js, React Native, Figma, MongoDB, Next.js and Git at my disposal, I am ready to take on any challenge.
 
-**<em>If you are looking for a developer who combines technical skills, a sense of design and an entrepreneurial spirit, don't hesitate to get in touch</em>**
+**<em>If you are looking for a BI Analytics Engineer  who combines technical skills, and an entrepreneurial spirit, don't hesitate to get in touch</em>**
 
 ## :handshake: Connect with me :
 
