@@ -1,6 +1,6 @@
 ## :bar_chart: Github Stats:
 
-![syu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=syu99&show_icons=true&theme=dracula)
+![B2Big's GitHub stats](https://github-readme-stats.vercel.app/api?username=B2Big&show_icons=true&theme=dracula)
 
 **👋 Hi there!** 
 
@@ -46,7 +46,7 @@ Feel free to reach out to me through these platforms. I look forward to connecti
 
 ## :wrench: Languages & Tools :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syu99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B2Big&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 Here are some of the languages and tools I work with:
   </p>
